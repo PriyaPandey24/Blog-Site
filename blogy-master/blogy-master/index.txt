@@ -1,5 +1,5 @@
 Blogy - Hey, we’re Blogy. See our thoughts, stories and ideas.
-This is a blog html template made by codewithsadee
+
 
 
 
@@ -267,4 +267,3 @@ Subscribe
 Tags
 Authors
 
-&copy; Blogy 2022. Published by codewithsadee.
